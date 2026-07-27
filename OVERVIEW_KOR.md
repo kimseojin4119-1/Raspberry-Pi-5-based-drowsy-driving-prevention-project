@@ -14,8 +14,7 @@
 - [📝 배운점](#-배운점)
 
 ## 🚗 개요
-
-- 문제 정의
+**문제 정의**
 - <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/dd1f1e34-581e-4093-973e-153ae7fd830a" />
 - 졸음운전 사고는 매우 심각한 교통사고 원인들 중 하나이며 그 위험성은 이미 통계적으로 검증됐다
 - <img width="1494" height="497" alt="스크린샷 2026-07-27 오후 9 37 51" src="https://github.com/user-attachments/assets/3498f398-ac7b-4a39-b188-199fb9f725e7" />
