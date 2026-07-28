@@ -45,6 +45,7 @@
 
 ### 졸음운전의 위험성
 아래는 팀이 조사한 실제 보도 기사입니다.
+- <img width="1494" height="497" alt="스크린샷 2026-07-27 오후 9 37 51" src="https://github.com/user-attachments/assets/c3eb7834-015d-4c82-bcc9-1fc4322bba37" />
 
 | 제목 | 출처 |
 |---|---|
